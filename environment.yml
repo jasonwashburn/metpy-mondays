@@ -1,0 +1,7 @@
+name: metpy-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - metpy
